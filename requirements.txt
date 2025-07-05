@@ -1,0 +1,13 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+torch>=1.7.0
+torchvision>=0.8.0
+PyQt5>=5.15.0
+requests>=2.25.0
+googlemaps>=4.4.0
+herepy>=3.5.0
+pillow>=8.0.0
+scipy>=1.6.0
+ultralytics>=8.0.0
+cryptography>=3.4.0
+pyOpenSSL>=20.0.0 
