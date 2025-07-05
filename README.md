@@ -38,7 +38,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/traffic-management-system.git
+git clone https://github.com/bhavintak143/traffic-management-system.git
 cd traffic-management-system
 
 # Install dependencies
